@@ -1,0 +1,29 @@
+{
+    "v1": [
+        {
+            "user_id": "019mr8mf4r",
+            "app": "Airbnb",
+            "timestamp": "2018-10-29T00:30:12.984Z"
+        },
+        {
+            "user_id": "019mr8mf4r",
+            "app": "Facebook",
+            "timestamp": "2018-10-14T10:23:12.984Z"
+        },
+        {
+            "user_id": "019mr8mf4r",
+            "app": "Airbnb",
+            "timestamp": "2018-10-29T10:47:12.984Z"
+        },
+        {
+            "user_id": "021mr8mf4r",
+            "app": "Ibis",
+            "timestamp": "2018-10-15T10:33:12.984Z"
+        },
+        {
+            "user_id": "019mr8mf4r",
+            "app": "WhatsApp",
+            "timestamp": "2018-11-02T23:18:12.984Z"
+        }
+    ]
+}
